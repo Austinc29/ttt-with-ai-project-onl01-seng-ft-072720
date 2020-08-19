@@ -1,4 +1,5 @@
-
+#!/usr/bin/env ruby
+require_relative '../config/environment'
 
 def game_start
   puts "\nWelcome to Command Line Tic Tac Toe!"
